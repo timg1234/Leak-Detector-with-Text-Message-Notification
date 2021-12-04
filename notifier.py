@@ -26,7 +26,7 @@ while True:
         #message2 = client.messages.create(
         #    from_='(123) 456-7890',
         #    to='(098) 765-4321',
-        #    body='WATER HAS BEEN DETECTED IN THE PUMP ROOM! CALL A PLUMBER IF HUSBAND IS FAR AWAY!')
+        #    body='WATER HAS BEEN DETECTED IN THE PUMP ROOM!')
         #print(message2.sid)
         
         time.sleep(120) # value is number of seconds between notifications
